@@ -1,13 +1,10 @@
-Here is a draft `README.md` file tailored to the structure and contents found in your `full_details.txt` file.
-
-```markdown
 # Fantasy Land RPG
 
 ## Introduction
 Fantasy Land RPG is a role-playing game developed using Python. The game features a medieval fantasy setting complete with turn-based combat, exploration, and a variety of monsters and spells. Players can explore towns, dungeons, and varied landscapes while battling enemies and leveling up.
 
 ## Tech Stack
-* **Language:** Python (Compatible with 3.7 - 3.11)
+* **Language:** Python (Compatible with 3.11)
 * **Core Engine:** Pygame (Inferred standard for Python 2D games)
 * **Animation Engine:** Pyganim (Sprite animation module)
 
@@ -57,39 +54,8 @@ Fantasy_Land_RPG/
 * **Data-Driven Design:** Game balance and content (Skills, Items, Monsters) are loaded from external JSON files, making modification easy.
 * **Save System:** Integrated save/load functionality via `savegame.dat`.
 
-## Installation & Setup
 
-1. **Clone the repository:**
-```bash
-git clone <repository-url>
-cd Fantasy_Land_RPG
-
-```
-
-
-2. **Install Dependencies:**
-Ensure you have Python installed, then run:
-```bash
-pip install -r requirements.txt
-
-```
-
-
-3. **Run the Game:**
+ **Run the Game:**
 Execute the main script to start the game:
 ```bash
 python main.py
-
-```
-
-
-
-## Credits
-
-* **Development:** [Your Name/Team Name]
-* **Assets:** (List specific asset packs or artists if known, e.g., RPG Maker assets, open-source sprites).
-* **Fonts:** Alagard, Vecna, RuneScape UF, Daisy Roots.
-
-```
-
-```
